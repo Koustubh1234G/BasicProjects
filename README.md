@@ -25,7 +25,7 @@ Welcome to my collection of Bash scripts, C/C++ programs, and simple Batch proje
 3. [Fibonacci](#fibonacci) - Print Fibonacci series
 4. [Marksheet](#marksheet) - Generate a student marksheet
 
-### C++
+### Cpp
 - **Games**
     1. [Rock Paper Scissors](#rock-paper-scissors)
     2. [Casino Number Guessing](#casino-number-guessing)
